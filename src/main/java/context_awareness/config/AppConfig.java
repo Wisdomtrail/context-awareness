@@ -12,5 +12,6 @@ public class AppConfig {
     @Bean
     public User user(){
         return new User(1,"S");
+        System.out.println();
     }
 }
