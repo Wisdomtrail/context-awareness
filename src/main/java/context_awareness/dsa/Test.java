@@ -1,4 +1,4 @@
-package context_awareness;
+package context_awareness.dsa;
 
 public class Test {
     public static void main(String[] args) {
