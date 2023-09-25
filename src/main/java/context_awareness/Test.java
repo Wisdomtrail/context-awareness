@@ -1,7 +1,5 @@
 package context_awareness;
 
-import java.util.Scanner;
-
 public class Test {
     public static void main(String[] args) {
         System.out.println(multiply(-5, 5));
