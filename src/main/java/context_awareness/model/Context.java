@@ -13,4 +13,8 @@ public class Context {
         return name;
     }
 
+    public void setId(Long id){
+        this.id = id;
+    }
+
 }
