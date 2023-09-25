@@ -17,4 +17,8 @@ public class Context {
         this.id = id;
     }
 
+    public Long getId(){
+        return id;
+    }
+
 }
